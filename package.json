@@ -1,0 +1,21 @@
+{
+  "name": "273-geolocation-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.1.6",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "express-session": "^1.15.6",
+    "express-validator": "^6.6.1",
+    "g": "^2.0.1"
+  }
+}
